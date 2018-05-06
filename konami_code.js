@@ -20,5 +20,5 @@ function init() {
       alert("wrong!")
       index = 0;
     }
-  }
+  })
 }
